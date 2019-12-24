@@ -1,0 +1,64 @@
+<head>
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} | {{ site.description }}
+    {% else %}
+      {{ page.title }} | {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
+  <!-- Use Atom -->
+  {% feed_meta %}
+  <!-- RSS-v2.0
+  <link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
+  //-->
+
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+  <!-- Google Analytics -->
+  {% include google-analytics.html %}
+
+  <!-- Use Jekyll SEO plugin -->
+  {% seo %}
+
+  <script type="text/javascript">
+    window.MemberfulOptions = {site: "https://duerr.memberful.com"};
+
+    (function() {
+      var s   = document.createElement('script');
+
+      s.type  = 'text/javascript';
+      s.async = true;
+      s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+      setup = function() { window.MemberfulEmbedded.setup(); }
+
+      s.addEventListener("load", setup, false);
+
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+  </script>
+
+  <script>
+  var MemberSpace = window.MemberSpace || {subdomain: "amorous"};
+  (function(d){
+    var s = d.createElement("script");
+    s.src = "https://cdn.memberspace.com/scripts/widgets.js";
+    var e = d.getElementsByTagName("script")[0];
+    e.parentNode.insertBefore(s,e);
+  }(document));
+  </script>
+
+</head>

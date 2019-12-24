@@ -1,0 +1,6 @@
+id: cfd0102b-a955-45e5-9d85-dfb6f85a72b0
+deploy:
+  ignore: []
+  directory: .
+plugins:
+  - name: webpage
