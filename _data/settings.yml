@@ -8,11 +8,11 @@ google-ID: 'UA-146421430-1'
 
 menu:
 - {name: 'Try it.', folder: 'pages', file: 'try.html'}
-- {name: 'Products', folder: 'pages', file: 'stay-tuned.html'}
+- {name: 'Products', folder: 'pages', file: 'products.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', link: 'mailto:'}
+- {icon: 'envelope', link: 'mailto:duerr.sebastian@gmail.com'}
 
 sharing_button_prompt: 'Please share to spread amorous texts!'
