@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-146421430-1'
 
 menu:
-- {name: 'Try it.', folder: 'pages', file: 'try.html'}
+- {name: 'Try it out', folder: 'pages', file: 'try.html'}
 - {name: 'Products', folder: 'pages', file: 'products.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
