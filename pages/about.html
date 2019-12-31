@@ -7,4 +7,6 @@ amorous.me builds on different romantic books and the FastAI library to create t
 Enjoy your day and thank you for checking us out.
 Please feel free to leave a review.
 
-{% include talkyard-comments.html %}
+{% if site.data.settings.disqus.comments %}
+  {% include disqus.html %}
+{% endif %}
