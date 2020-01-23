@@ -4,6 +4,6 @@ title: "AI Romance."
 author: "Sebastian"
 categories: post
 tags: [amour]
-image: essay.jpg
+image: nature-1.jpg
 ---
 # How to extract romantic verbiage.

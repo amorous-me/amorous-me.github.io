@@ -4,7 +4,7 @@ title: "How to monetize machine learning"
 author: "Sebastian"
 categories: post
 tags: [amour]
-image: poem.jpg
+image: arctic-1.jpg
 ---
 
 # The basic ingredients
