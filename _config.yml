@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "amorous.me"
-description:	       "Use AI for your amorous ideas"
+description:	       "Use artificial intelligence to spark amorous ideas for you and your loved ones."
 author:              "Sebastian"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
