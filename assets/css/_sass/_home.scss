@@ -1,3 +1,27 @@
+.example_c {
+font-family: 'Roboto', sans-serif;
+font-size: 1em;
+color: #494949 !important;
+text-decoration: none;
+background: #ffffff;
+padding: 8px;
+border: 1px solid #494949 !important;
+display: inline-block;
+transition: all 0.4s ease 0s;
+}
+
+.button_cont {
+  text-decoration: none;
+}
+
+.example_c:hover {
+color: #ffffff !important;
+text-decoration: none;
+background: #0F272C;
+border-color: #0F272C !important;
+transition: all 0.4s ease 0s;
+}
+
 .featured-posts {
   height: 400px;
   margin: 5px 10px 10px;

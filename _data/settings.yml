@@ -6,11 +6,7 @@ disqus:
 google-ID: 'UA-146421430-1'
 
 menu:
-- {name: 'Try it out', folder: 'pages', file: 'try.html'}
+- {name: 'Trial', folder: 'pages', file: 'trial.html'}
 - {name: 'Products', folder: 'pages', file: 'products.html'}
+- {name: 'Blog', folder: 'pages', file: 'blog.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-
-social:
-- {icon: 'envelope', link: 'mailto:duerr.sebastian@gmail.com'}
-
-sharing_button_prompt: '                          .'
