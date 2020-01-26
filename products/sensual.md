@@ -2,7 +2,7 @@
 layout: product
 title: "Sensual stories: Generate naughty stories that inspire your love life."
 author: "Sebastian"
-categories: product
+categories: page
 tags: [amour]
 image: sensual.jpg
 ---

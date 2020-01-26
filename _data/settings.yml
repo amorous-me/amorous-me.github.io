@@ -7,6 +7,6 @@ google-ID: 'UA-146421430-1'
 
 menu:
 - {name: 'Trial', folder: 'pages', file: 'trial.html'}
-- {name: 'Products', folder: 'pages', file: 'products.html'}
+- {name: 'Products', folder: 'pages', file: 'product.html'}
 - {name: 'Blog', folder: 'pages', file: 'blog.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}

@@ -2,7 +2,7 @@
 layout: product
 title: "AI Poems: Generate romantic essays for you loved ones."
 author: "Sebastian"
-categories: product
+categories: page
 tags: [amour]
 image: essay.jpg
 ---

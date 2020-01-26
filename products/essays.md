@@ -2,7 +2,7 @@
 layout: product
 title: "Essays: Generate dedicated poems for the one person!"
 author: "Sebastian"
-categories: product
+categories: page
 tags: [amour]
 image: poem.jpg
 ---
