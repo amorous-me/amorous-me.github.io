@@ -15,6 +15,20 @@ title: Home
 
 {% endfor %}
 
+{% for product in paginator.products %}
+
+<article>
+  <a href="{{ site.github.url }}{{ product.url }}">
+    <div class="featured-productss" {% if product.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ product.image }})"{% endif %}>
+      <h2><span>{{ product.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+{% endfor %}
+
+
+
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
