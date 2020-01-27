@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Essays: Generate dedicated poems for the one person!"
 author: "Sebastian"
 categories: page
