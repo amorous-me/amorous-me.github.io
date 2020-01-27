@@ -2,10 +2,10 @@
 layout: page
 title: Our Products
 ---
-{% for product in site.categories.product %}
+{% for product in site.categories.page %}
   <a href="{{ site.github.url }}{{ product.url }}">
-    <div class="featured-posts" {% if product.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ product.image }})"{% endif %}>
-      <h2><span>{{ product.title }}</span></h2>
+    <div class="featured-posts" {% if page.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ page.image }})"{% endif %}>
+      <h2><span>{{ page.title }}</span></h2>
     </div>
   </a>
 {% endfor %}

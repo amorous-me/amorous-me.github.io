@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: page
 title: "AI Poems: Generate romantic essays for you loved ones."
 author: "Sebastian"
 categories: page
