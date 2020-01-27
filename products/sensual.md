@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: misc
 title: "Sensual stories: Generate naughty stories that inspire your love life."
 author: "Sebastian"
 categories: page
