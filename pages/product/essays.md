@@ -4,7 +4,7 @@ title: "Essays: Generate dedicated poems for the one person!"
 author: "Sebastian"
 categories: page
 tags: [amour]
-image: poem.jpg
+image: essay.jpg
 ---
 
 # Essays: Generate dedicated essays for the one person!

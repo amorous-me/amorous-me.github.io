@@ -4,7 +4,7 @@ title: "AI Poems: Generate romantic essays for you loved ones."
 author: "Sebastian"
 categories: page
 tags: [amour]
-image: essay.jpg
+image: poem.jpg
 ---
 # Generate romantic poems for you loved ones.
 Trained by the comprehensive body of 500 poems by the grandmasters of all times this neural net will produce fine input for you and your loved ones.
